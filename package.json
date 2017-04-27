@@ -1,0 +1,8 @@
+{
+  "name": "denuncia.rocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fforres/denuncia.rocks.git",
+  "author": "Felipe Torres <felipe@axiomzen.com>",
+  "license": "MIT"
+}
