@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:fforres/denuncia.rocks.git",
   "author": "Felipe Torres <felipe@axiomzen.com>",
-  "license": "MIT"
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "serve": "serve ./dist"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^0.12.0",
+    "serve": "^5.1.4"
+  }
 }
